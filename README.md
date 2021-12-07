@@ -1,4 +1,4 @@
-# Linear-Regression-ML 
+# Linear-Regression-ML_Single Variable Model 
 ML LinearRegression Model for Price prediction 
-Sigle Variable Model
+Single Variable Model
 
